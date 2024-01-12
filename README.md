@@ -1,12 +1,13 @@
-# Nome do meu projeto
+# RotaFood
 
-Rápida descrição do objetivo de fazer esse projeto
+Eu estou desenvolvendo tanto o frontend quanto o backend de um projeto que nasceu de uma pesquisa minha na faculdade!
+O projeto RotaFood
 
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
-| :sparkles: Nome        | **Titulo do meu projeto**
-| :label: Tecnologias | java, html, ruby, c# (tecnologias utilizadas)
-| :rocket: URL         | https://url-deploy.com.br
+| :sparkles: Nome        | **RotaFood**
+| :label: Tecnologias | Python, Node, Typescript, Rest APIs (tecnologias utilizadas)
+| :rocket: URL         | https://rotafood.com.br
 | :fire: Desafio     | https://url-do-desafio.com.br
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
